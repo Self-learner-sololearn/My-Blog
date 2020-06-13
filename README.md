@@ -1,6 +1,4 @@
-# My-Project-
-My project having description about my skills and schedule using HTML 
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>My Blog</title>
@@ -159,7 +157,6 @@ My project having description about my skills and schedule using HTML
         </div>
         
     </body>
-</html>
 
 <style>
 html {
@@ -328,3 +325,4 @@ input, textarea {
     color: grey;
 }
 </style>
+</html>
