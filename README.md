@@ -7,7 +7,8 @@
     <body>
         <!-- header start -->
         <div id="header" class="section">
-            <img alt="" class="img-circle" src="file:///storage/emulated/0/Download/83429469_1862746627357984_6810804158396891136_n.jpg">
+            <img alt="" class="img-circle" src="https://  .jpg">
+">
             <p>bsvbsv1985</p>
         </div>
         <!-- header end -->
