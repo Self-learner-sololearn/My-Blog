@@ -154,10 +154,7 @@
         <div class="copyright">
             &copy; 2020 My Blog. All rights reserved.
         </div>
-        
-    </body>
-
-<style>
+        <style>
 html {
     margin: 0;
     padding: 0;
@@ -323,5 +320,5 @@ input, textarea {
     padding-bottom: 10px;
     color: grey;
 }
-</style>
+</style></body>
 </html>
