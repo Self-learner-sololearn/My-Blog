@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<HTML>
+<html>
     <head>
         <title>My Blog</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
@@ -170,9 +169,7 @@ input, textarea {
     color: grey;
 }
 </style>
-
-   </head>
-    
+</head>
     <body>
         <!-- header start -->
         <div id="header" class="section">
@@ -322,4 +319,6 @@ input, textarea {
         
         <div class="copyright">
             &copy; 2020 My Blog. All rights reserved.
-        </div></body></html>
+        </div>
+</body>
+</html>
