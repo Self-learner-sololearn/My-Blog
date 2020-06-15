@@ -1,13 +1,14 @@
-<html>
+<!DOCTYPE html>
+<HTML>
     <head>
         <title>My Blog</title>
         <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
 <style>
-html {
+html{
     margin: 0;
     padding: 0;
 }
-body {
+body{
     font-family: 'Handlee',
      cursive;
     font-size: 13pt;
@@ -15,7 +16,7 @@ body {
     padding: 10px;
     margin: 0;
 }
-h1 {
+h1{
     font-size: 15pt;
     color: #20bcd5;
     text-align: center;
@@ -34,7 +35,7 @@ p {
     border: 3px solid white;
     border-radius: 50%;
 }
-.section {
+.section{
     background-color: #fff;
     padding: 15px;
     margin-bottom: 10px;
